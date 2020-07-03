@@ -32,7 +32,7 @@
     "@theme-ui/style-guide": "^0.4.0-alpha.3",
     "@theme-ui/typography": "^0.4.0-alpha.0",
     "copy-to-clipboard": "^3.2.0",
-    "gatsby": "^2.3.6",
+    "gatsby": "^2.23.19-core-js.8",
     "gatsby-plugin-catch-links": "^2.0.13",
     "gatsby-plugin-compile-es6-packages": "^2.1.0",
     "gatsby-plugin-mdx": "^1.0.4",
